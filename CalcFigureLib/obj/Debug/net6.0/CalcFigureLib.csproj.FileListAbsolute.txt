@@ -1,0 +1,11 @@
+C:\Users\sanch\source\repos\CalcFigureLib\CalcFigureLib\bin\Debug\net6.0\CalcFigureLib.deps.json
+C:\Users\sanch\source\repos\CalcFigureLib\CalcFigureLib\bin\Debug\net6.0\CalcFigureLib.dll
+C:\Users\sanch\source\repos\CalcFigureLib\CalcFigureLib\bin\Debug\net6.0\CalcFigureLib.pdb
+C:\Users\sanch\source\repos\CalcFigureLib\CalcFigureLib\obj\Debug\net6.0\CalcFigureLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sanch\source\repos\CalcFigureLib\CalcFigureLib\obj\Debug\net6.0\CalcFigureLib.AssemblyInfoInputs.cache
+C:\Users\sanch\source\repos\CalcFigureLib\CalcFigureLib\obj\Debug\net6.0\CalcFigureLib.AssemblyInfo.cs
+C:\Users\sanch\source\repos\CalcFigureLib\CalcFigureLib\obj\Debug\net6.0\CalcFigureLib.csproj.CoreCompileInputs.cache
+C:\Users\sanch\source\repos\CalcFigureLib\CalcFigureLib\obj\Debug\net6.0\CalcFigureLib.dll
+C:\Users\sanch\source\repos\CalcFigureLib\CalcFigureLib\obj\Debug\net6.0\refint\CalcFigureLib.dll
+C:\Users\sanch\source\repos\CalcFigureLib\CalcFigureLib\obj\Debug\net6.0\CalcFigureLib.pdb
+C:\Users\sanch\source\repos\CalcFigureLib\CalcFigureLib\obj\Debug\net6.0\ref\CalcFigureLib.dll

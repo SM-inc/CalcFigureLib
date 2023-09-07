@@ -12,7 +12,7 @@
             _Radius = Radius;
         }
 
-        public double GetSqure()
+        public double CalcSqure()
         {
             return Math.PI * Math.Pow(_Radius, 2);
         }

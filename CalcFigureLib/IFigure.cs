@@ -8,6 +8,6 @@ namespace CalcFigureLib
 {
     public interface IFigure
     {
-        public double GetSqure();
+        public double CalcSqure();
     }
 }

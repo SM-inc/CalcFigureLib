@@ -21,8 +21,6 @@ namespace CalcFigureLib
             _edgeA = edgeA;
             _edgeB = edgeB;
             _edgeC = edgeC;
-
-
         }
 
         public bool GetIsTriangleRight()
@@ -38,11 +36,10 @@ namespace CalcFigureLib
         }
         
 
-        public double GetSqure()
+        public double CalcSqure()
         {
-            double semiP = (_edgeA + _edgeB + _edgeC) / 2; //поиск полупериметра
-            return Math.Sqrt(semiP*(semiP - _edgeA) * (semiP - _edgeB) * (semiP - _edgeC));
-
+            double semiP = (_edgeA + _edgeB + _edgeC) / 2;
+            return Math.Sqrt(semiP * (semiP - _edgeA) * (semiP - _edgeB) * (semiP - _edgeC));
         }
     }
 }

@@ -381,6 +381,16 @@
             "related": ".xml"
           }
         }
+      },
+      "CalcFigureLib/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/CalcFigureLib.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/CalcFigureLib.dll": {}
+        }
       }
     }
   },
@@ -975,10 +985,16 @@
         "useSharedDesignerContext.txt",
         "version.txt"
       ]
+    },
+    "CalcFigureLib/1.0.0": {
+      "type": "project",
+      "path": "../CalcFigureLib/CalcFigureLib.csproj",
+      "msbuildProject": "../CalcFigureLib/CalcFigureLib.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net6.0": [
+      "CalcFigureLib >= 1.0.0",
       "Microsoft.NET.Test.Sdk >= 17.5.0",
       "NUnit >= 3.13.3",
       "NUnit.Analyzers >= 3.6.1",
@@ -1017,7 +1033,11 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\sanch\\source\\repos\\CalcFigureLib\\CalcFigureLib\\CalcFigureLib.csproj": {
+              "projectPath": "C:\\Users\\sanch\\source\\repos\\CalcFigureLib\\CalcFigureLib\\CalcFigureLib.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
